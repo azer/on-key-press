@@ -1,7 +1,6 @@
 ## on-key-press
 
 Listen key press events on command-line
-gets handled by default.
 
 ## Install
 
