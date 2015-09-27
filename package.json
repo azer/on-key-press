@@ -1,0 +1,23 @@
+{
+  "name": "on-key-press",
+  "version": "0.0.0",
+  "description": "Listen key press events for given IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "io",
+    "key",
+    "press"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/on-key-press.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
+}
