@@ -1,6 +1,6 @@
 ## on-key-press
 
-Listen key press events for given IO on CLI. Ctrl C & Ctrl D buttons
+Listen key press events on command-line
 gets handled by default.
 
 ## Install
